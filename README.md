@@ -7,6 +7,8 @@ This is a full stack web quiz test that fetches 10 random questions from a pool 
 - Fetches 10 random questions from a pool of 15 questions
 - Provides feedback on whether each answer is correct or incorrect
 - Calculates a score and rank based on the user's performance
+- You can review your answers before submitting them.
+- timing for every single question.
 
 ## Installation
 
