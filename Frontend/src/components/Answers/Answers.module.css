@@ -1,0 +1,29 @@
+.container .title{
+    margin-bottom: 40px;
+    font-size: 35px !important;
+}
+
+.container .item{
+    font-size: 30px !important;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(8, 122, 154);
+}
+
+.container .item h1{
+    padding: 0;
+    margin:0 ;
+    font-size: 26px !important;
+    color: rgb(197, 197, 197);
+}
+
+
+.container .question{
+font-size:26px ;
+color: rgb(183, 15, 15);
+}
+
+.container .answer{
+    font-size: 23px;
+    color: rgb(18, 209, 209);
+}
